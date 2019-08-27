@@ -1,0 +1,17 @@
+div.ex1{
+    background-color: rgb(224, 255, 255);
+    width: 700px;
+    height: 300px;
+    overflow: scroll;
+    margin: 0 auto;
+    border : 5px solid rgb(255, 0, 140);
+    border-radius : 7px;
+  }
+  aside{
+                     float: right;
+                     width: 15%;
+                     border-radius : 5px;               
+              }
+  h3{
+                   color: rgb(161, 0, 75);
+      }      
